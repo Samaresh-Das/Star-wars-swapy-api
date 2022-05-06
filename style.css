@@ -1,0 +1,47 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: 
+              linear-gradient(180deg, rgba(
+                0, 0, 0, 0.3), rgba(
+                  0, 0, 0, 0.8)),url('./Assets/Images/cosmic-timetraveler-LhDWW8PhPoE-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.main{
+    color: #ffffff;
+    text-align: center;
+    margin: 20% 30%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 7px solid #ffd166;
+    border-radius: 15px;
+    font-family: 'Koulen', cursive;
+}
+
+.main h1{
+    font-size: 45px;
+}
+
+.main h3{
+    font-size: 25px;
+}
+
+.main p{
+    font-size: 25px;
+}
+
+#show{
+    padding: 5px 70px;
+    background-color: #4895ef;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Koulen', cursive;
+    margin: 30px auto;
+}
+
